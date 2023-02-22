@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+
+.job{
+    max-width: 100%;
+    background-image: url(1.jpg);
+    padding: 22px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+
+}
+
+.job h1,p{
+    text-align: center;
+   
+    
+
+
+}
+input ,textarea{
+    width: 40%;
+    margin: 15px;
+    padding: 7px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+form{
+    align-items: center;
+    font-size: 25px;
+    flex-direction: column;
+   
+}
+
+.job h1{
+    font-size: 45px;
+}
+.job p{
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+.btn{
+    background-color: rgb(209, 93, 10);
+    color: white;
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    
+}
+#gg{
+    margin-left: 700px; 
+}
+#about{
+    margin-left: 450px;
+}
